@@ -1,0 +1,4 @@
+interface:
+  display_name: "CLI Trace"
+  short_description: "查询、导入并解释 CLI agent 的结构化 trace 数据"
+  default_prompt: "Use $cli-trace to inspect a traced CLI agent session by session_id."
